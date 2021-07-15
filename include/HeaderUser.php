@@ -11,7 +11,7 @@
 		
 	  <div class="loginfo">
 		
-		<h3 ><a href="AdminLogin.php">Login</a>
+		<h3 ><a href="Login.php">Login</a>
 		
 	  </div>
 	
